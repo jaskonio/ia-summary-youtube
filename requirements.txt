@@ -1,0 +1,6 @@
+pytube==15.0.0
+# git+https://github.com/openai/whisper
+requests==2.32.3
+whisper-openai==1.0.0
+moviepy==1.0.3
+pytube==15.0.0
